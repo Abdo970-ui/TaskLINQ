@@ -1,4 +1,4 @@
-Photolink => file:///C:/Users/A%20H%20M%20E%20D/Desktop/Task.HTML?
+Photolink => file:///E:/EraaSoft/HTML/Task.HTML
 
 
 <!DOCTYPE html>
